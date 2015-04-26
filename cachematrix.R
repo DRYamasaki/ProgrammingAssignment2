@@ -1,4 +1,4 @@
-	## Cousera R-Programming Course Programming Assignment 2 
+	## Programming Assignment 2 
 
 	## This assigment contains 2 functions, the first fuction (makeCacheMatrix.R) will cache results
       ## of the inverse of a matrix created by the second function (cacheSolve.R)
